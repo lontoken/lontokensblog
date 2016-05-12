@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: lontoken' blog
+title: lontoken'blog
 subtitle:
-description: 简单 可依赖
+description: 简单可依赖
 author: lontoken
 language: zh-Hans
 timezone:
@@ -73,6 +73,6 @@ deploy:
   branch: master
   message: master
 
-# baidu_analytics: 2f2bb507fa5f77e7b3752a4657d34e9f
+baidu_analytics: 2f2bb507fa5f77e7b3752a4657d34e9f
 
-# duoshuo_shortname: lontoken
+duoshuo_shortname: lontoken
